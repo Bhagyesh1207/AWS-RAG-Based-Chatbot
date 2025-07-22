@@ -207,11 +207,6 @@ def lambda_handler(event, context):
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 ## 🙌 Acknowledgments
 
